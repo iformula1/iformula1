@@ -1,4 +1,4 @@
-# Iformula1
+# iFormula1.com Website
 
 To start your Phoenix server:
 
